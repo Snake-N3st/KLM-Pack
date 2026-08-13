@@ -1,0 +1,10 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/blaze_powder"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1}, "model": "item/colier/colier_rouge"}
+	]
+}

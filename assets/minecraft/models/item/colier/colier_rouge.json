@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/colier_rouge",
+		"particle": "item/colier_rouge"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [12, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 8]},
+			"faces": {
+				"north": {"uv": [7, 0, 14, 1], "texture": "#0"},
+				"east": {"uv": [7, 1, 14, 2], "texture": "#0"},
+				"south": {"uv": [7, 2, 14, 3], "texture": "#0"},
+				"west": {"uv": [7, 3, 14, 4], "texture": "#0"},
+				"up": {"uv": [7, 7, 0, 0], "texture": "#0"},
+				"down": {"uv": [7, 7, 0, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [-1, 13.75, -1],
+			"scale": [2.2, 1.27, 2.2]
+		}
+	}
+}
