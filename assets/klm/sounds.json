@@ -1,0 +1,42 @@
+{
+  "music.adding_instruments": {
+    "sounds": [
+      "klm:music/adding_instruments"
+    ]
+  },
+  "music.artcore_nami_ryo_aisthimata": {
+    "sounds": [
+      "klm:music/artcore_nami_ryo_aisthimata"
+    ]
+  },
+  "music.battle_broken_sky": {
+    "sounds": [
+      "klm:music/battle_broken_sky"
+    ]
+  },
+  "music.black_knight": {
+    "sounds": [
+      "klm:music/black_knight"
+    ]
+  },
+  "music.chaos_construct": {
+    "sounds": [
+      "klm:music/chaos_construct"
+    ]
+  },
+  "music.nah_id_win": {
+    "sounds": [
+      "klm:music/nah_id_win"
+    ]
+  },
+  "music.song_fo_wembu": {
+    "sounds": [
+      "klm:music/song_fo_wembu"
+    ]
+  },
+  "music.ura_boss4": {
+    "sounds": [
+      "klm:music/ura_boss4"
+    ]
+  }
+}
