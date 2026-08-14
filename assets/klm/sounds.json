@@ -1,42 +1,42 @@
 {
   "music.adding_instruments": {
     "sounds": [
-      "klm:music/adding_instruments"
+      { "name": "klm:music/adding_instruments", "stream": true }
     ]
   },
   "music.artcore_nami_ryo_aisthimata": {
     "sounds": [
-      "klm:music/artcore_nami_ryo_aisthimata"
+      { "name": "klm:music/artcore_nami_ryo_aisthimata", "stream": true }
     ]
   },
   "music.battle_broken_sky": {
     "sounds": [
-      "klm:music/battle_broken_sky"
+      { "name": "klm:music/battle_broken_sky", "stream": true }
     ]
   },
   "music.black_knight": {
     "sounds": [
-      "klm:music/black_knight"
+      { "name": "klm:music/black_knight", "stream": true }
     ]
   },
   "music.chaos_construct": {
     "sounds": [
-      "klm:music/chaos_construct"
+      { "name": "klm:music/chaos_construct", "stream": true }
     ]
   },
   "music.nah_id_win": {
     "sounds": [
-      "klm:music/nah_id_win"
+      { "name": "klm:music/nah_id_win", "stream": true }
     ]
   },
   "music.song_fo_wembu": {
     "sounds": [
-      "klm:music/song_fo_wembu"
+      { "name": "klm:music/song_fo_wembu", "stream": true }
     ]
   },
   "music.ura_boss4": {
     "sounds": [
-      "klm:music/ura_boss4"
+      { "name": "klm:music/ura_boss4", "stream": true }
     ]
   }
 }
